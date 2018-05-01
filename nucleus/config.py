@@ -2,8 +2,6 @@
 This configuration file serves the same purpose as the django settings
 file when nucleus is used as a standalone package.
 """
-from __future__ import unicode_literals
-from __future__ import absolute_import
 import os
 
 
